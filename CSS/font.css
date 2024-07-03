@@ -1,0 +1,13 @@
+h1{
+    font-family: "Playwrite ES Deco", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+@font-face {
+    font-family:"header.font" ;
+    src: url(font/header.font.ttf);
+}
+#offline{
+    font-family:"header.font";
+}

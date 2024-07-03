@@ -1,0 +1,21 @@
+/* tag selector */
+p{
+    background-color: pink;
+}
+/* id selector */
+
+#first{
+    color: red;
+}
+#second{
+    color: blue;
+}
+
+.inred{
+    color: red;
+}
+/* group selector */
+
+p, #first , .inred {
+    background-color: blue;
+}
