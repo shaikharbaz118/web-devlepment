@@ -1,0 +1,9 @@
+h1::first-letter{
+    font-family: cursive;
+    font-size: 80px;
+    text-shadow: 5px 3px 5px black;
+    color: red;
+}
+h1::first-line{text-decoration: underline   ;}
+h1::before{content: url(pngimg.com\ -\ pokemon_logo_PNG12.png);}
+h1::after{content: url(pngimg.com\ -\ pokemon_logo_PNG12.png);}
